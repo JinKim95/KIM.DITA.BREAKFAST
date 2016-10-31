@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-sandwich">
+    <title>How to make a Breakfast Sandwich</title>
+    <shortdesc>These instructions will show you how to make a delicious breakfast sandwich that'll keep you full in the morning</shortdesc>
+ <taskbody>   
+    <prereq><p>Ingredients/Tools Required:</p>
+        <ul>
+            <li audience="mom">4 slices of Bacon</li>
+            <li audience="mom">2 slices of White Bread</li>
+            <li>1 cup of Spinach</li>
+            <li audience="mom">1 tablespoon Butter</li>
+            <li audience="mom">2 tablespoons Ketchup</li>
+            <li audience="mom">2 Eggs</li>
+            <li audience="armando">1 large Garlic Clove</li>
+            <li audience="armando">2 slices of Sprouted-Grain Bread</li>
+            <li audience="armando">2 tablespoons Hummus</li>
+            <li audience="armando">1/2 Avocado</li>
+            <li audience="armando">2 Tomatos</li>
+            <li audience="armando">3 leafs of Lettuce</li>
+            <li audience="armando">pinch of Red Pepper Flakes</li>
+            <li audience="armando"> pinch of Salt and Pepper </li>
+            <li>Plate</li>
+            <li>Spatula</li>
+        </ul>
+        <div>1 serving of a sandwich</div>
+    </prereq>
+    <steps>
+        <step>
+            <cmd conref="t-pancakes.dita#t-pancakes/skillet"/>
+            <info conref="t-pancakes.dita#t-pancakes/hotwarning"/>
+        </step>
+        <step audience="mom">
+            <cmd>Cook 4 slices of bacon onto the skillet until brown</cmd>
+        </step>
+        <step audience="mom">
+            <cmd>Crack 2 eggs onto the skillet and cook sunny side up until fully cooked</cmd>
+        </step>
+        <step audience="mom">
+            <cmd>Butter up one side of each of the slices of white bread</cmd>
+        </step>
+        <step audience="mom">
+            <cmd>Toast bread onto skillet with the buttered side down</cmd>
+            <substeps>
+                <substep>
+                    <cmd>Spread all ingredients on the skillet evenly so they can all cook evenly</cmd>
+                </substep>
+            </substeps>
+        </step>
+        <step audience="mom">
+            <cmd>Put one of the toasted breads onto the plate with buttered side down</cmd>
+        </step>
+        <step audience="mom">
+            <cmd>Put cooked eggs, spinach, bacon, and ketchup on top of the bread on the plate with a spatula</cmd>
+        </step>
+        <step audience="mom">
+            <cmd>Put the other slice of toasted bread onto the sandwich with buttered side up</cmd>
+        </step>
+        <step audience="armando">
+            <cmd>Toast the two slices of sprouted-grain bread on the skillet</cmd>
+        </step>
+        <step audience="armando">
+            <cmd>Mince or slice 1/2 avacado,2 tomatos,and one large garlic clove while bread is toasting</cmd>
+        </step>
+        <step audience="armando">
+            <cmd>Put one slice of toasted bread onto the plate</cmd>
+        </step>
+        <step audience="armando">
+            <cmd>Spread the hummus onto the bread slice on the plate with a spatula</cmd>
+        </step>
+        <step audience="armando">
+            <cmd>Add minced avacado, tomatos, garlic clove, 1 cup of spinach, a pinch of red pepper flakes, and a pinch of salt and pepper on top of the bread on the plate</cmd>
+        </step>
+        <step audience="armando">
+            <cmd>Put the other slice of toasted bread onto the sandwich</cmd>
+        </step>
+        <step>
+            <cmd>Enjoy your sandwich</cmd>
+        </step>
+    </steps>
+    <result>
+        <fig audience="mom">
+                <title>Bacon and Egg Sandwich</title>
+                <image href="bacon%20and%20egg%20sandwich.jpg" width="250" height="250"
+                    id="image_yph_cyg_5x"/>
+            </fig>
+        <fig audience="armando">
+                <title>Vegan Sandwich</title>
+                <image href="vegan%20sandwich.jpg" width="250" height="250" id="image_zd3_2yg_5x"/>
+            </fig>
+    </result>
+     <postreq audience="armando">
+         <ul conref="t-pancakes.dita#t-pancakes/cleaning"><li></li></ul>
+         <p conref="t-pancakes.dita#t-pancakes/proper"></p>
+     </postreq>
+    </taskbody>
+</task>

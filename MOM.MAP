@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>How to Cook Breakfast</title>
+ <topicref href="Intro.dita"/>
+ <topicref href="t-omelette.dita"/>
+ <topicref href="t-pancakes.dita"/>
+ <topicref href="t-sandwich.dita"/>
+ <topicref href="t-smoothie.dita"/>
+ <topicref href="t-yogurt.dita"/>
+ <topicref href="t-cleaning.dita"/>
+ <topicref href="Troubleshoot.dita"/>
+ <topicref href="Ref.dita"/>
+</map>

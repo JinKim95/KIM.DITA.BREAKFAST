@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t-pancakes">
+    <title>How to Make Pancakes</title>
+    <shortdesc>These are instructions to make a quick and easy, but delicious and fluffy breakfast pancake!</shortdesc>
+    <taskbody>
+        <prereq><p>Ingredients/Tools Required:</p>
+            <ul>
+                <li audience="mom">12 slices of bacon</li>
+                <li audience="mom">2 cups of Orignial Bisquick Mix</li>
+                <li audience="mom">1 cup Milk</li>
+                <li audience="mom">2 Eggs</li>
+                <li audience="mom">Syrup (desired amount)</li>
+                <li audience="armando">1 1/4 cups All-Purpose Flour</li>
+                <li audience="armando">2 tablespoons White Sugar</li>
+                <li audience="armando">1/2 teaspoon Salt</li>
+                <li audience="armando">1 1/4 cups Water</li>
+                <li audience="armando">2 teaspoons Baking Powder</li>
+                <li audience="armando">1 tablespoon Oil</li>
+                <li>Medium Bowl</li>
+                <li audience="armando">Small Bowl</li>
+                <li audience="armando">Whisk</li>
+                <li>Plate</li>
+                <li>Knife</li>
+                <li>Fork</li>
+            </ul>
+            <div audience="mom">12 servings of pancakes</div>
+            <div audience= "armando">3 servings of pancakes</div>
+        </prereq>
+     
+        <steps>
+            <step>
+                <cmd id="skillet">Prepare skillet on medium heat</cmd>
+                <info id="hotwarning">Be careful, as tool will be hot</info>
+            </step>
+            <step audience="mom">
+                <cmd>Cook 12 slices of bacon until crispy</cmd>
+            </step>
+            <step>
+                <cmd>Prepare the batter by mixing 2 cups of bisquick, 2 eggs, and 1 cup of milk in a medium bowl</cmd>
+                <info id="thoroughmix">Mix thoroughly to make sure ingredients do not clump together</info>
+            </step>
+            <step audience="mom">
+                <cmd>Place the bacon strips evenly around the skillet</cmd>
+            </step>
+            <step>
+                <cmd audience="mom">Pour the batter mix evenly around each bacon strip</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Cook the batter and strip for 2-3 minutes until golden brown</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Serve with a desired amount of syrup</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Mix 1 1/4 cups of flour, 2 tablespoons white sugar, 2 teaspoons baking powder, 1/2 teaspoons of salt in a bowl</cmd>
+                <info conref="t-pancakes.dita#t-pancakes/thoroughmix"/>
+            </step>
+            <step audience="armando">
+                <cmd>Mix 1 1/4 water and 1 tablespoon of oil in a small bowl</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Mix together the wet and dry mixtures</cmd>
+                <info conref="t-pancakes.dita#t-pancakes/thoroughmix"/>
+            </step>
+            <step audience="armando">
+                <cmd>Pour evenly large drops of the batter on the skillet</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Cook until golden brown</cmd>
+            </step>
+            <step>
+                <cmd>Enjoy your meal on a plate with a knife and fork</cmd>
+            </step>
+        </steps>
+        <result>
+            <fig audience="mom">
+                <title>Bacon Pancakes</title>
+                <image href="baconpancakes.jpg" width="250" height="250" id="image_zpx_kwg_5x"/>
+            </fig>
+            <fig audience="armando">
+                <title>Vegan Pancakes</title>
+                <image href="vegan%20pancakes.jpg" width="250" height="250" id="image_h5m_qwg_5x"/>
+            </fig>
+        </result>
+        <postreq audience="armando">
+            <ul id="cleaning">
+                <li>Wash all used dishes and utensils with dishwasher soap</li>
+                <li>Clean all used bowls with warm water and dishwasher soap</li>
+                <li>Clean dirty counter tops with paper towels and water</li>
+                <li>Clean all used tools</li>
+            </ul>
+            <p id="proper">If you do not know the details to properly and thoroughly clean dishes or the kitchen, please refer to <xref href="t-cleaning.dita"></xref></p>
+        </postreq>
+    </taskbody>
+</task>

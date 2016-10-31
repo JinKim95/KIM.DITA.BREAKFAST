@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t-omelette">
+    <title>How to Cook an Omelette</title>
+    <shortdesc>These instructions will teach you how to make a delicious breakfast omelette to keep you going throughout your day!</shortdesc>
+    <taskbody>
+        <prereq><p>Ingredients/Tools Required:</p>
+            <ul>
+                <li audience="mom">2 slices of Bacon</li>
+                <li audience="mom">1/4 of an Onion</li>
+                <li>1 Large Mushroom</li>
+                <li audience="mom">1 Large Egg</li>
+                <li audience="mom">1 tablespoon of Heavy Cream</li>
+                <li audience="mom">2 slices of American cheese</li>           
+                <li audience="armando">3/4 cup Firm Silken Tofu</li>
+                <li audience="armando">2 tablespoons Hummus</li>
+                <li audience="armando">2 Large Minced Cloves Garlic</li>
+                <li audience="armando">1/4 tablespoons Paprika</li>
+                <li audience="armando">1/2 Diced Tomato</li>
+                <li audience="armando">1 tablespoon Olive Oil</li>
+                <li audience="armando">2 tablespoons of Water</li>
+                <li audience="armando">1/2 Diced Spinach</li>
+                <li audience="armando">1 tablespoon cornstarch</li>
+                <li>Salt (desired amount)</li>
+                <li>Pepper (desired amount)</li>
+                <li>Bowl</li>
+                <li>Whisk</li>
+                <li>Spatula</li>
+                <li>Plate</li>
+                <li>Fork</li>
+                <li>Knife</li>
+                <li audience="armando">Oven</li>
+                <li audience="armando">Oven Tray</li>
+                <li audience="armando">Food Processor</li>
+                <li audience="armando">Oven Mitts</li>
+            </ul>
+            <div>1 serving of omelette</div>
+        </prereq>
+      
+        <steps>
+            <step>
+                <cmd conref="t-pancakes.dita#t-pancakes/skillet"/>
+                <info conref="t-pancakes.dita#t-pancakes/hotwarning"/>
+            </step>
+            <step audience="mom">
+                <cmd>Mince with a knife 2 slices of bacon, 1/4 of onion, and 1 large mushroom</cmd>
+                <info id="sharp">Be extra careful using a knife not to slice your fingers</info>
+            </step>
+            <step audience="mom">
+                <cmd>Cook the baon first on the skillet</cmd>
+                   <substeps>
+                       <substep>
+                           <cmd>Add onions and mushrooms to the skillet after fat from bacon has melted onto the skillet</cmd>
+                       </substep>
+                   </substeps>
+            </step>
+            <step audience="mom">
+                <cmd>Stir the mixture on the skillet untill golden brown</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Add salt and pepper, as much as you desire for taste</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Leave the ingredients in the pan on low heat and crack your 1 large egg in a bowl</cmd>
+            </step>
+            <step>
+                <cmd audience="mom">Whisk your egg with 1 tablespoon of heavy cream</cmd>
+                <info conref="t-pancakes.dita#t-pancakes/thoroughmix"/>
+            </step>
+            <step audience="mom">
+                <cmd>Distribute evenly the ingredients already on the skillet so ingredients don't clump together</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Pour egg mixture evenly into the pan</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Add 2 slices of American cheese onto the middle of the skillet</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Fold the left and right sides of the omelette with a spatula after cheese has melted</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Prepare oven to 375 degrees fahrenheit</cmd>
+            </step>
+            <step audience="armando"> 
+                <cmd>Mince up 3/4 cup of tofu, 2 large cloves of garlic, and 1 tablespoon of cornstarch and put into food processor</cmd>
+                <info conref="t-pancakes.dita#t-pancakes/thoroughmix"/>
+                <info conref="t-omelette.dita#t-omelette/sharp"/>
+            </step>
+            <step audience="armando">
+                <cmd>Add 2 tablespoons of water to the mixture to thin it out</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Add 1 tablespoon of olive oil to the skillet</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Mince 1 large mushroom and mix with 1/2 diced Spinach, 1/2 diced tomato and put into skillet</cmd>
+                <info conref="t-omelette.dita#t-omelette/sharp"/>
+            </step>
+            <step audience="armando">
+                <cmd>Cook vegetables on low heat and put in tofu mix flat onto oven tray</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Put tofu mix into the oven and cook until golden brown</cmd>
+                <info conref="t-pancakes.dita#t-pancakes/hotwarning"/>
+            </step>
+            <step audience="armando">
+                <cmd>Take out the tofu (now cooked) with oven mitts onto a plate</cmd>
+                <info conref="t-pancakes.dita#t-pancakes/hotwarning"/>
+            </step>
+            <step audience="armando">
+                <cmd>Pour the cooked vegetables and 2 tablespoons of hummus onto the cooked tofu</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Add 1/4 tablespoons of paprika and desired amount of salt and pepper for taste</cmd>
+            </step>
+            <step>
+                <cmd>Take omelette carefully out of a skillet onto a plate and enjoy with fork and knife</cmd>
+            </step>
+        </steps>
+        <result>
+            <fig audience="mom">
+                <title>Bacon and Cheese Omelette</title>
+                <image href="baconomel.jpg" width="250" height="250" id="image_wn5_1xg_5x"/>
+            </fig>
+            <fig audience="armando">
+                <title>Vegan Omelette</title>
+                <image href="vegan%20omelet.jpg" width="250" height="250" id="image_bnn_fxg_5x"/>
+            </fig>
+        </result>
+        <postreq audience="armando">
+            <ul conref="t-pancakes.dita#t-pancakes/cleaning"><li></li></ul>
+            <p conref="t-pancakes.dita#t-pancakes/proper"></p>
+        </postreq>
+    </taskbody>
+</task>

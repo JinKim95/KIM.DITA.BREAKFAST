@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t-cleaning">
+    <title>How to Properly and Thoroughly Clean the Kitchen</title>
+    <shortdesc>These instructions will teach you how to clean dishes, tabletops, tools, and also teach you what materials to clean them with</shortdesc>
+    <taskbody>
+        <context audience="mom">
+            <p>Please ignore this task as I know you have cleaned our kitchen so many times over the years. I should not be teaching a master.</p>
+        </context>
+        <prereq><p>Dirty Things/Tools Required:</p>
+            <ul>
+                <li>Dirty Dishes</li>
+                <li>Dirty Bowls</li>
+                <li>Dirty Utensils</li>
+                <li>Dirty Countertops</li>
+                <li>Dirty Blender</li>
+                <li>Dirty Skillet</li>
+                <li>Dawn Dishwash Soap</li>
+                <li>Paper Towels</li>
+                <li>Scouring Pad</li>
+                <li>Sponge</li>
+                <li>Sink</li>
+                <li>Washing Machine</li>
+                <li>Saran Wrap</li>
+            </ul>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Throw away all packages and food that cannot be used in the future</cmd>
+            </step>
+            <step>
+                <cmd>Wrap all usable extra food in saran warp and store in the fridge</cmd>
+            </step>
+            <step>
+                <cmd>Gather all dirty dishes, dirty bowls, dirty utensils, and dirty skillets if any was used into the left side of the sink</cmd>
+            </step>
+            <step>
+                <cmd>Lather the sponge with Dawn dishwash soap and beginning scrubbing the kitchen items</cmd>
+                <info id="hiddensharp">Be careful of sharp that might be in the pile and keep sharp eye on avoiding getting cut</info>
+            </step>
+            <step>
+                <cmd>Scrub hard to get rid of food on the kitchen items with the scouring pad</cmd>
+                <info id="scouring">Do not scour too hard or you will make marks on the kitchen item</info>
+            </step>
+            <step>
+                <cmd>Rinse off the soap on the right side of the sink after scrubbing and set in washing machine to dry</cmd>
+            </step>
+            <step>
+                <cmd>Disassemble the blender's glass top, blades, and lid from the machine</cmd>
+                <info>Do not wash electrical parts of blender</info>
+            </step>
+            <step>
+                <cmd>Lather the sponge with Dawn dishwash soap and beginning scrubbing the blender parts</cmd>
+                <info conref="t-cleaning.dita#t-cleaning/hiddensharp"/>
+            </step>
+            <step>
+                <cmd>Scrub hard to get rid of food on the kitchen items with the scouring pad</cmd>
+                <info conref="t-cleaning.dita#t-cleaning/scouring"/>
+            </step>
+            <step>
+                <cmd>Rinse off the soap on the right side of the sink after scrubbing and set parts in washing machine to dry</cmd>
+            </step>
+            <step>
+                <cmd>Wet paper towels with water and wipe stains off of countertops</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Use a drop of Dawn dishwash soap on wet paper towel if stain on countertop is refusing to come off and wipe again</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Throw away dirty towels</cmd>
+            </step>
+        </steps>
+        <postreq>
+            <p>Make sure the sink's water has been turned off and the lights have been turned off when you leave the kitchen</p>
+        </postreq>
+    </taskbody>
+</task>

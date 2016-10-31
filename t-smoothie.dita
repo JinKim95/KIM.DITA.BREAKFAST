@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="t-smoothie">
+    <title>How to make a Smoothie</title>
+    <shortdesc>This recipe will allow you to make a delicious smoothie to start your day off right!</shortdesc>
+    <taskbody>
+        <prereq><p>Ingredients/Tools Required:</p>
+        <ul>
+            <li audience="mom">1 cup Soy Milk</li>
+            <li audience="mom">1/2 cup Rolled Oats</li>
+            <li>1 Banana</li>
+            <li audience="mom">14 Frozen Strawberries</li>
+            <li audience="mom">1/2 teaspoon Vanilla Extract</li>
+            <li audience="mom">1 1/2 teaspoons White Sugar</li>
+            <li audience="armando">1 cup Almond Milk</li>
+            <li audience="armando">1 tablespoon Coconut Oil</li>
+            <li audience="armando">2 tablespoons Chia Seeds</li>
+            <li audience="armando">1 teaspoon Powdered Ginger</li>
+            <li>Blender</li>
+            <li>Large Cup</li>
+        </ul>
+        <div>1 serving of smoothie</div>
+        </prereq>
+        <section><title>Instructions</title></section>
+        <steps>
+            <step>
+                <cmd>Plug in the blender into the wall</cmd>
+            </step>
+            <step>
+                <cmd>Slice up 1 banana</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Put in 1 cup of soy milk, 1/2 cup of rolled oats, 1 sliced banana, 14 frozen strawberries, 1 1/2 teaspoon of vanilla extract, and 1 1/2 teaspoons of white sugar into in blender</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Put 1 cup of almond milk, 1 tablespoon of coconut oil, 2 tablespoons of chia seeds, and 1 teaspoon of powdered ginger into the blender</cmd>
+            </step>
+            <step>
+                <cmd>Put the blender lid cover on top of the machine and hit the blend button</cmd>
+                <info conref="t-pancakes.dita#t-pancakes/thoroughmix"/>
+                <info id="liddanger" audience="armando">Do not remove the lid or put your hand into the blender as it blends, you will lose a finger</info>
+            </step>
+            <step>
+                <cmd>Pour mixture into a large cup and enjoy</cmd>
+            </step>
+        </steps>
+        <result>
+            <fig audience="mom">
+                <title>Fruit Smoothie</title>
+                <image href="fruit-smoothie-180x246.jpg" width="250" height="250"
+                    id="image_t2j_3yg_5x"/>
+            </fig>
+            <fig audience="armando">
+                <title>Vegan Smoothie</title>
+                <image href="chia%20smoothie.jpg" width="250" height="250" id="image_vqh_lyg_5x"/>
+            </fig>
+        </result>
+        <postreq audience="armando">
+            <ul conref="t-pancakes.dita#t-pancakes/cleaning"><li></li></ul>
+            <p conref="t-pancakes.dita#t-pancakes/proper"></p>
+        </postreq>
+    </taskbody>
+</task>

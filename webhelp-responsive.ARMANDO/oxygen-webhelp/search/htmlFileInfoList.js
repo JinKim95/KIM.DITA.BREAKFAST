@@ -1,0 +1,10 @@
+fil = new Array();
+fil["0"]= "Intro.html@@@How to Cook Breakfast@@@These instructions will teach you how to cook delicious breakfast meals!...";
+fil["1"]= "Ref.html@@@References@@@Bacon Pancake Recipe Type Description Web http://www.tablespoon.com/recipes/bacon-pancakes/48acc385-2003-461f-9a90-6dad468306ce Vegan Pancake Recipe Type Description Web...";
+fil["2"]= "Troubleshoot.html@@@Troubleshooting@@@The blender is not blending properly The blender is not plugged in Plug the blenders plug into the wall The blender is malfunctioning and needs to restart Hit the restart button located on the right...";
+fil["3"]= "t-cleaning.html@@@How to Properly and Thoroughly Clean the Kitchen@@@These instructions will teach you how to clean dishes, tabletops, tools, and also teach you what materials to clean them with...";
+fil["4"]= "t-omelette.html@@@How to Cook an Omelette@@@These instructions will teach you how to make a delicious breakfast omelette to keep you going throughout your day!...";
+fil["5"]= "t-pancakes.html@@@How to Make Pancakes@@@These are instructions to make a quick and easy, but delicious and fluffy breakfast pancake!...";
+fil["6"]= "t-sandwich.html@@@How to make a Breakfast Sandwich@@@These instructions will show you how to make a delicious breakfast sandwich that ll keep you full in the morning...";
+fil["7"]= "t-smoothie.html@@@How to make a Smoothie@@@This recipe will allow you to make a delicious smoothie to start your day off right!...";
+fil["8"]= "t-yogurt.html@@@How to make Breakfast Yogurt@@@These instructions will show you how to make a more complex yet delicious breakfast yogurt...";

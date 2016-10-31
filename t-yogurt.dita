@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_glb_s3g_5x">
+    <title>How to make Breakfast Yogurt</title>
+    <shortdesc>These instructions will show you how to make a more complex yet delicious breakfast yogurt</shortdesc>
+    <taskbody>
+        <prereq><p>Ingredients/Tools Required:</p>
+            <ul>
+                <li audience="mom">1 cup Greek Yogurt bought from Kroger</li>
+                <li audience="mom">1/4 cup Oats</li>
+                <li audience="mom">2 slices of Bacon</li>
+                <li audience="mom">4 Strawberries</li>
+                <li audience="mom">1 teaspoon White Sugar</li>
+                <li audience="mom">1/2 cup of Fireball Liquor</li>
+                <li audience="armando">1/2 tablespoon Psyllium Husks Powder</li>
+                <li audience="armando">1 pinch Sea Salt</li>
+                <li audience="armando">1 1/2 cup Cashew Nuts</li>
+                <li audience="armando">2 fresh Soft Dates</li>
+                <li audience="armando">2 tablespoons Lemon Juice </li>
+                <li audience="armando">10 teaspoons Water</li>
+                <li audience="armando">1/2 cup Water (separate from 10 tablespoons of water)</li>
+                <li>Bowl</li>
+                <li audience="armando">Blender</li>
+                <li audience="mom">Oven</li>
+                <li audience="mom">Oven Tray</li>
+                <li>Knife</li>
+                <li audience="mom">Oven Mitts</li>
+                <li>Spoon</li>
+            </ul>
+            <div>1 serving of smoothie</div>
+        </prereq>
+        
+        <steps>
+            <step audience="mom">
+                <cmd>Preheat oven to 350 degrees fahrenheit</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Put 2 slices of bacon onto oven tray and cover with 1/2 cup of Fireball liquor and put tray into oven</cmd>
+                <info conref="t-pancakes.dita#t-pancakes/hotwarning"/>
+            </step>
+            <step audience="mom">
+                <cmd>Slice 4 strawberries with a knife while bacon is cooking</cmd>
+                <info conref="t-omelette.dita#t-omelette/sharp"/>
+            </step>
+            <step audience="mom">
+                <cmd>Take bacon out of the oven with oven mitts when golden brown and candied</cmd>
+                <info conref="t-pancakes.dita#t-pancakes/hotwarning"/>
+            </step>
+            <step audience="mom">
+                <cmd>Wait for bacon to cool and pour 1 cup greek yogurt into a bowl</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Mix 1 teaspoon white sugar, 1/4 cup of oats, and 4 sliced strawberries with greek yogurt in bowl with spoon</cmd>
+                <info conref="t-pancakes.dita#t-pancakes/thoroughmix"/>
+            </step>
+            <step audience="mom">
+                <cmd>Break cooled candied bacon with hands on top of yogurt mixture</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Combine 1/2 tablespoon psyllium husks powder with 1/2 cup water in a bowl</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Put 1 1/2 cup cashew nuts, 2 tablespoons of lemon juice, 10 teaspoons of water, and 2 soft dates into the blender</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Put the blender lid cover on top of the machine and hit the blend button</cmd>
+                <info conref="t-pancakes.dita#t-pancakes/thoroughmix"/>
+                <info conref="t-smoothie.dita#t-smoothie/liddanger"/>
+            </step>
+            <step audience="armando">
+                <cmd>Mix nut and date mixture with psyllium mixture</cmd>
+                <info conref="t-pancakes.dita#t-pancakes/thoroughmix"/>
+            </step>
+            <step>
+                <cmd>Enjoy yogurt with a spoon</cmd>
+            </step>
+        </steps>
+        <result>
+            <fig audience="mom">
+                <title>Candied Bacon yogurt</title>
+                <image href="candied%20bacon%20yogurt.jpg" width="250" height="250"
+                    id="image_hz1_kxg_5x"/>
+            </fig>
+            <fig audience="armando">
+                <title>Vegan Yogurt</title>
+                <image href="vegan%20yogurt.jpg" width="250" height="250" id="image_f55_yxg_5x"/>
+            </fig>
+        </result>
+        <postreq audience="armando">
+            <ul conref="t-pancakes.dita#t-pancakes/cleaning"><li></li></ul>
+            <p conref="t-pancakes.dita#t-pancakes/proper"></p>
+        </postreq>
+    </taskbody>
+</task>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept_ft2_ysf_5x" path="Intro.html"/>
+   <appContext helpID="t-omelette" path="t-omelette.html"/>
+   <appContext helpID="t-pancakes" path="t-pancakes.html"/>
+   <appContext helpID="t-sandwich" path="t-sandwich.html"/>
+   <appContext helpID="t-smoothie" path="t-smoothie.html"/>
+   <appContext helpID="task_glb_s3g_5x" path="t-yogurt.html"/>
+   <appContext helpID="t-cleaning" path="t-cleaning.html"/>
+   <appContext helpID="trouble_hlq_dqg_5x" path="Troubleshoot.html"/>
+   <appContext helpID="reference_qkp_vg3_qx" path="Ref.html"/>
+</map>
